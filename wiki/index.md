@@ -5,3 +5,7 @@
 ## Guide
 
 [ > Get Install ](install/)
+
+[ > Config ](config/)
+
+[ > First Note ](firstnote/)
