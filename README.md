@@ -35,6 +35,10 @@ You can use some more edit app, change it in `command.hpp` at line **4** .
 
 - Input this `./LanGong run NoteText`
 
+## Wiki
+
+[ > Go Wiki ](https://langong-dev.github.io/NoteText/wiki)
+
 # 简体中文
 
 ## 支持的操作系统
@@ -61,3 +65,7 @@ You can use some more edit app, change it in `command.hpp` at line **4** .
 ## 运行
 
 - 输入 `./LanGong run NoteText` 。
+
+## Wiki
+
+[ > 前往 Wiki ](https://langong-dev.github.io/NoteText/wiki)
