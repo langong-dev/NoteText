@@ -1,0 +1,7 @@
+fun(){
+	echo Updating...
+	git pull
+	echo
+	echo -n Starting...
+	./LanGong
+}
