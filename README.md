@@ -29,6 +29,8 @@
 - Please install [LanFilePackage](https://github.com/langong-dev/LanFilePackage) first.
 - Then input this `./LanGong install github langong-dev/NoteText`
 
+You can use some more edit app, change it in `command.hpp` at line **4** .
+
 ## Run
 
 - Input this `./LanGong run NoteText`
@@ -53,6 +55,8 @@
 
 - 请先下载 [LanFilePackage](https://github.com/langong-dev/LanFilePackage) 。
 - 然后在终端命令行输入以下命令 `./LanGong install github langong-dev/NoteText` 。
+
+你可以更换其他的文本编辑器，只需要在 `command.hpp` 中更换第**四**行内容即可。
 
 ## 运行
 
